@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Mono';
+    src: url('assets/fonts/VCR_OSD_MONO_1.001.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: '04B';
+    src: url('assets/fonts/04B_30__.TTF') format('truetype');
+}
+
+body {
+    font-family: 'Mono', '04B', sans-serif;
+}
